@@ -2,6 +2,4 @@
 
 # [Live Demo](https://project-metaverse-pi.vercel.app/)
 
-![Chat Application](https://i.ibb.co/sbSHWH0/Thumbnail-1.png)
-
 
